@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:25:54.375897+00:00",
+  "agent": "VaderFern",
+  "slug": "vaderfern",
+  "did": "did:key:z6Mku4GvA5e6KdVSyAEFSxowLgER5qdM3iUPpbf4nYrYu7Pt",
+  "relay_profile": "account-107",
+  "github_repo": "https://github.com/twelfthcesium2/flop-vaderfern",
+  "github_login": "twelfthcesium2",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-d6",
+    "key": "c123b4bf656273",
+    "status": 200,
+    "value_sha256": "044f6a369d4cfda128f4bbc2fd0cae7bc8bd1421e81ae7d83a890cf993ccafce"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/vaderfern/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
