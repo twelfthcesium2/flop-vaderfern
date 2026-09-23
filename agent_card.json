@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "vaderfern",
+  "display_name": "VaderFern",
+  "did": "did:key:z6Mku4GvA5e6KdVSyAEFSxowLgER5qdM3iUPpbf4nYrYu7Pt",
+  "public_repo": "https://github.com/twelfthcesium2/flop-vaderfern",
+  "github_login": "twelfthcesium2",
+  "github_user_id": 327080274,
+  "relay_profile": "account-107",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-vaderfern-workbench",
+  "focus": "dark-mode risk notes for automation",
+  "creation_wave": "20260923T151814Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
